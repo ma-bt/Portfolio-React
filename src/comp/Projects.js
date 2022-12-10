@@ -1,5 +1,6 @@
 import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
+import projImg0 from "../assets/img/Pro0.jpg";
 import projImg1 from "../assets/img/Pro1.jpg";
 import projImg2 from "../assets/img/Pro2.jpg";
 import projImg3 from "../assets/img/Pro3.jpg";
@@ -12,10 +13,10 @@ export const Projects = () => {
 
     const projects = [
         {
-            title: "Bar Website (REACT)",
+            title: "Ecommerce Website (REACT)",
             description: "View project",
            
-            imgUrl: projImg2,
+            imgUrl: projImg0,
             Lnk: "https://ma-bt.github.io/Bar-website/",
 
         },
