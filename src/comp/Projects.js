@@ -12,6 +12,14 @@ export const Projects = () => {
 
     const projects = [
         {
+            title: "Bar Website (REACT)",
+            description: "View project",
+           
+            imgUrl: projImg2,
+            Lnk: "https://ma-bt.github.io/Bar-website/",
+
+        },
+        {
             title: "Hospital Website (REACT)",
             description: "View project",
             imgUrl: projImg1,
