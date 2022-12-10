@@ -17,7 +17,7 @@ export const Projects = () => {
             description: "View project",
            
             imgUrl: projImg0,
-            Lnk: "https://ma-bt.github.io/Bar-website/",
+            Lnk: "https://ma-bt.github.io/Ecommerce-website/",
 
         },
         {
